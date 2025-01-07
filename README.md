@@ -13,8 +13,6 @@ This repository contains the source code for my personal portfolio website. The 
 
 ---
 
-## images
--By Ryan Dahl, MIT, https://commons.wikimedia.org/w/index.php?curid=26936716
 
 ## Technologies Used
 
