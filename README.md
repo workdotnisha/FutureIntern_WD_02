@@ -72,7 +72,7 @@ portfolio/
 ## Contact
 
 Feel free to reach out if you have any questions or suggestions:
-- **Email**: workedotnisha@gmail.com
+- **Email**: workdotnisha@gmail.com
 - **GitHub**: [workdotnisha](https://github.com/workdotnisha)
 
 
